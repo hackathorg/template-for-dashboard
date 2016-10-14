@@ -1,0 +1,2 @@
+# hackathorg
+Hackathon organiser tool
